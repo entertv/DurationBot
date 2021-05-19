@@ -1,0 +1,9 @@
+{
+  "routes": [{
+    "legs": [{
+        "duration" : {
+          "text":""
+        }
+    }]
+  }]
+}
